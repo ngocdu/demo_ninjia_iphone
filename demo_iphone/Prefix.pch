@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'demo_iphone' target in the 'demo_iphone' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
